@@ -1,0 +1,4 @@
+ClientID,ClientName,PriorityLevel,RequestedTaskIDs,GroupTag,AttributesJSON
+C001,Acme Corp,3,T001|T003|T005,GroupA,"{\"region\":\"North\"}"
+C002,Globex Inc,5,T002|T004,GroupB,"{\"region\":\"South\"}"
+C003,Initech,2,T001|T005,GroupA,"{\"region\":\"East\"}"

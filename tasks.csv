@@ -1,0 +1,6 @@
+TaskID,TaskName,Category,Duration,RequiredSkills,PreferredPhases,MaxConcurrent
+T001,Install Wiring,Electrical,2,Electrical,"1-3",2
+T002,Fix Plumbing Leak,Plumbing,1,Plumbing,"[2,4]",1
+T003,Build Cabinets,Carpentry,3,Carpentry,"3-5",1
+T004,Inspect System,Inspection,1,Electrical,"1-2",1
+T005,Replace Pipe,Plumbing,2,Plumbing,"2-3",1
